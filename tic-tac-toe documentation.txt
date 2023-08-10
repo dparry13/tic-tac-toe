@@ -1,0 +1,2 @@
+I used all 4 hours developing this program.
+If I would have had more time I would have made the CPU better to play against using some kind of pattern for where to put the "O".
